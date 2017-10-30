@@ -1,0 +1,8 @@
+Group Design Project
+Secure Ping
+
+
+
+=== Setting Up AVR Toolchain ==
+Download and install WinAVR: https://sourceforge.net/projects/winavr/
+Install Zadig: http://zadig.akeo.ie/
